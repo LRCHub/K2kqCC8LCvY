@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いゔどっと - 熱に疲れて MV",
+  "base_artist": "いゔどっと",
+  "createdAt": "2025-12-25T15:29:17.686785Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱に疲れて",
+      "artist": "いゔどっと",
+      "has_synced": false,
+      "path": "select/pl_01_熱に疲れて_いゔどっと.txt"
+    }
+  ]
+}
